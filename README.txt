@@ -3,3 +3,6 @@ $ python3 mainapp.py
 或
 $ mainapp.py
 
+
+add for git test (master) dfd
+add for git 2nd
